@@ -1,0 +1,4 @@
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Dominio\bin\Debug\netcoreapp3.1\Classificados.Comum.dll
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Dominio\obj\Debug\netcoreapp3.1\Classificados.Dominio.csprojAssemblyReference.cache
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Dominio\obj\Debug\netcoreapp3.1\Classificados.Dominio.AssemblyInfoInputs.cache
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Dominio\obj\Debug\netcoreapp3.1\Classificados.Dominio.AssemblyInfo.cs
