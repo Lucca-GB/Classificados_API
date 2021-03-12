@@ -2,3 +2,11 @@ C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados
 C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Dominio\obj\Debug\netcoreapp3.1\Classificados.Dominio.csprojAssemblyReference.cache
 C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Dominio\obj\Debug\netcoreapp3.1\Classificados.Dominio.AssemblyInfoInputs.cache
 C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Dominio\obj\Debug\netcoreapp3.1\Classificados.Dominio.AssemblyInfo.cs
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Dominio\bin\Debug\netcoreapp3.1\Classificados.Dominio.deps.json
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Dominio\bin\Debug\netcoreapp3.1\Classificados.Dominio.dll
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Dominio\bin\Debug\netcoreapp3.1\Classificados.Dominio.pdb
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Dominio\bin\Debug\netcoreapp3.1\Classificados.Comum.pdb
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Dominio\obj\Debug\netcoreapp3.1\Classificados.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Dominio\obj\Debug\netcoreapp3.1\Classificados.Dominio.csproj.CopyComplete
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Dominio\obj\Debug\netcoreapp3.1\Classificados.Dominio.dll
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Dominio\obj\Debug\netcoreapp3.1\Classificados.Dominio.pdb

@@ -17,6 +17,18 @@
           "lib/netstandard2.0/Flunt.dll": {}
         }
       },
+      "Flunt.Br/1.4.1": {
+        "type": "package",
+        "dependencies": {
+          "Flunt": "1.0.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/Flunt.Br.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flunt.Br.dll": {}
+        }
+      },
       "Microsoft.CodeCoverage/16.5.0": {
         "type": "package",
         "compile": {
@@ -914,6 +926,9 @@
       "Classificados.Comum/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Flunt": "1.0.5"
+        },
         "compile": {
           "bin/placeholder/Classificados.Comum.dll": {}
         },
@@ -926,7 +941,8 @@
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Classificados.Comum": "1.0.0",
-          "Flunt": "1.0.5"
+          "Flunt": "1.0.5",
+          "Flunt.Br": "1.4.1"
         },
         "compile": {
           "bin/placeholder/Classificados.Dominio.dll": {}
@@ -979,6 +995,19 @@
         "flunt.1.0.5.nupkg.sha512",
         "flunt.nuspec",
         "lib/netstandard2.0/Flunt.dll"
+      ]
+    },
+    "Flunt.Br/1.4.1": {
+      "sha512": "iItaWrug7VcLMWG4c5JySTZK0U4lCmgobF2UDntqb1tq622TE/mH104QI3aRIAPFY6/ev2b3ZYnloTxmnaU1Lg==",
+      "type": "package",
+      "path": "flunt.br/1.4.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "flunt-icon-br_compressed.png",
+        "flunt.br.1.4.1.nupkg.sha512",
+        "flunt.br.nuspec",
+        "lib/netstandard2.0/Flunt.Br.dll"
       ]
     },
     "Microsoft.CodeCoverage/16.5.0": {

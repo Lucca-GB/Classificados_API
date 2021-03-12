@@ -1,0 +1,9 @@
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Comum\bin\Debug\netcoreapp3.1\Classificados.Comum.deps.json
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Comum\bin\Debug\netcoreapp3.1\Classificados.Comum.dll
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Comum\bin\Debug\netcoreapp3.1\Classificados.Comum.pdb
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Comum\obj\Debug\netcoreapp3.1\Classificados.Comum.csprojAssemblyReference.cache
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Comum\obj\Debug\netcoreapp3.1\Classificados.Comum.AssemblyInfoInputs.cache
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Comum\obj\Debug\netcoreapp3.1\Classificados.Comum.AssemblyInfo.cs
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Comum\obj\Debug\netcoreapp3.1\Classificados.Comum.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Comum\obj\Debug\netcoreapp3.1\Classificados.Comum.dll
+C:\Users\Lucca\Documents\Classificados\Classificados\Classificados\Classificados.Comum\obj\Debug\netcoreapp3.1\Classificados.Comum.pdb

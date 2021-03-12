@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "u3IlCcpU1pvwEzKGnIjUYvDVkEAz6JXWRVnm/1HP5+YkVwVuy+hq5clL2y9I2w2o5WpIXrPEbdjWT/fV5j5eqQ==",
+  "dgSpecHash": "rsO8mpF913tWe3N68CELqnfkbURGEOHPjbq9+JiNeN2f6I9Stnxi19IDIBwQ86sV0qqsqjDjTgk5a4izAgZ34Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lucca\\Documents\\Classificados\\Classificados\\Classificados\\Classificados.Teste\\Classificados.Teste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucca\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Lucca\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\Lucca\\.nuget\\packages\\flunt.br\\1.4.1\\flunt.br.1.4.1.nupkg.sha512",
     "C:\\Users\\Lucca\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Lucca\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Lucca\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
